@@ -1,8 +1,4 @@
-# Group_al1y3vk_akakadia
-CS5010 repo for Fall2024; Northeastern Seattle.
-
-Assignment 4:
-
+# Random Sentence Generator
 Entry point -> In Main.java, the main() method.
 
 Key classes and methods:
